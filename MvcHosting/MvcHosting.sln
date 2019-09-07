@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcHosting", "MvcHosting\MvcHosting.csproj", "{FC7D02AF-73D6-4B6A-A958-3A26C4C2AFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7D02AF-73D6-4B6A-A958-3A26C4C2AFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7D02AF-73D6-4B6A-A958-3A26C4C2AFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7D02AF-73D6-4B6A-A958-3A26C4C2AFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7D02AF-73D6-4B6A-A958-3A26C4C2AFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
